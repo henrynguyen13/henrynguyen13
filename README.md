@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @henrynguyen13
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying at Ha Noi Univ. of Science and Technology (HUST)
+- ✨ My major is Computer Science
 - 📫 Contact me via emtrailincoln@gmail.com
 
 <!---
