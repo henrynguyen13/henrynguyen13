@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🐢 My name is Khoa, you can call me Henry.
-- 🌱 I’m currently a third-year student studying at SoICT, HUST.
+- 🌱 I’m currently a last-year student studying at SoICT, HUST.
 - 🔭 My major is Computer Science, and I want to be a Fullstack Developer in the future.
 - 👍 Facebook: https://www.facebook.com/bincoln13/
 - 📫 Email: khoa.nd1301@gmail.com
